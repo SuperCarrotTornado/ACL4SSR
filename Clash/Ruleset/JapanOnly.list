@@ -1,0 +1,15 @@
+# 内容：仅用于日本
+# 数量：7条
+
+# cygames
+DOMAIN,api-umamusume.cygames.jp
+DOMAIN,omotenashi.cygames.jp
+DOMAIN-SUFFIX,cygames.jp
+
+# buyee
+DOMAIN-SUFFIX,buyee.jp
+
+# others
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,api.ipify.org
