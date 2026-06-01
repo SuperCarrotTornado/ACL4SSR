@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,stats.g.doubleclick.net
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.239.0.0/16,no-resolve
+IP-CIDR,142.250.0.0/16,no-resolve
