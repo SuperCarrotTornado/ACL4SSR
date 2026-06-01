@@ -1,3 +1,2 @@
 # 内网穿透-工作
-IP-CIDR,192.168.30.0/24
-DOMAIN-SUFFIX,studio.com
+DOMAIN-SUFFIX,studio.cwbeta.com
